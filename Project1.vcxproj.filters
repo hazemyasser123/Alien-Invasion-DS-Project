@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="AlienArmyHeaders">
+      <UniqueIdentifier>{f3616114-355e-4f15-b738-0176d0ceca7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EarthArmyHeaders">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="CPP of the armies">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="DS Headers + CPP">
+      <UniqueIdentifier>{668ec86b-9b06-491b-a747-d22d9bbce11b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game+randGen + Unit">
+      <UniqueIdentifier>{a88b6b31-7607-40f6-862b-73c5ceebe954}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main + Input">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Unit.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="Alien_Monster.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="Earth_Gunnery.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="Drones.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="ES.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="AS.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="alienArmy.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="earthArmy.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game+randGen + Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="ET.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Main + Input</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitAOP.cpp">
+      <Filter>DS Headers + CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitDEQueue.cpp">
+      <Filter>DS Headers + CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitpriQueue.cpp">
+      <Filter>DS Headers + CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitQueue.cpp">
+      <Filter>DS Headers + CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitStack.cpp">
+      <Filter>DS Headers + CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="randGen.cpp">
+      <Filter>EarthArmyHeaders</Filter>
+    </ClCompile>
+    <ClCompile Include="HU.cpp">
+      <Filter>CPP of the armies</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Node.h">
+      <Filter>EarthArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Earth_Gunnery.h">
+      <Filter>EarthArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ES.h">
+      <Filter>EarthArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="earthArmy.h">
+      <Filter>EarthArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Alien_Monster.h">
+      <Filter>AlienArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="alienArmy.h">
+      <Filter>AlienArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Drone.h">
+      <Filter>AlienArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="AS.h">
+      <Filter>AlienArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedQueue.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="priNode.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="priQueue.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueADT.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="StackADT.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="StacksList.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="DEQueue.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="Array_Of_Pointers.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayStack.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game+randGen + Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="ET.h">
+      <Filter>EarthArmyHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="randGen.h">
+      <Filter>Game+randGen + Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitAOP.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitpriQueue.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitQueue.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitStack.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>Game+randGen + Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitDEQueue.h">
+      <Filter>DS Headers + CPP</Filter>
+    </ClInclude>
+    <ClInclude Include="HU.h">
+      <Filter>Game+randGen + Unit</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Input.txt">
+      <Filter>Main + Input</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

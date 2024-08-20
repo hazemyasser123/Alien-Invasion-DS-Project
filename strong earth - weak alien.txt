@@ -1,0 +1,133 @@
+Td = 3		ID = 2002	Tj = 3		Df = 0		Dd = 0		Db = 0
+Td = 4		ID = 2008	Tj = 4		Df = 0		Dd = 0		Db = 0
+Td = 4		ID = 2000	Tj = 1		Df = 3		Dd = 0		Db = 3
+Td = 5		ID = 2006	Tj = 4		Df = 0		Dd = 1		Db = 1
+Td = 5		ID = 2005	Tj = 4		Df = 0		Dd = 1		Db = 1
+Td = 7		ID = 2003	Tj = 3		Df = 4		Dd = 0		Db = 4
+Td = 7		ID = 2013	Tj = 7		Df = 0		Dd = 0		Db = 0
+Td = 8		ID = 2004	Tj = 4		Df = 4		Dd = 0		Db = 4
+Td = 8		ID = 2014	Tj = 8		Df = 0		Dd = 0		Db = 0
+Td = 9		ID = 2007	Tj = 4		Df = 5		Dd = 0		Db = 5
+Td = 10		ID = 2001	Tj = 2		Df = 4		Dd = 4		Db = 8
+Td = 11		ID = 2019	Tj = 10		Df = 1		Dd = 0		Db = 1
+Td = 11		ID = 2021	Tj = 11		Df = 0		Dd = 0		Db = 0
+Td = 11		ID = 2023	Tj = 11		Df = 0		Dd = 0		Db = 0
+Td = 11		ID = 2009	Tj = 5		Df = 0		Dd = 6		Db = 6
+Td = 12		ID = 2018	Tj = 10		Df = 0		Dd = 2		Db = 2
+Td = 12		ID = 2016	Tj = 9		Df = 0		Dd = 3		Db = 3
+Td = 12		ID = 2017	Tj = 10		Df = 0		Dd = 2		Db = 2
+Td = 12		ID = 2022	Tj = 11		Df = 0		Dd = 1		Db = 1
+Td = 12		ID = 2015	Tj = 9		Df = 0		Dd = 3		Db = 3
+Td = 13		ID = 2025	Tj = 13		Df = 0		Dd = 0		Db = 0
+Td = 13		ID = 2010	Tj = 6		Df = 0		Dd = 7		Db = 7
+Td = 14		ID = 2026	Tj = 13		Df = 0		Dd = 1		Db = 1
+Td = 14		ID = 2028	Tj = 14		Df = 0		Dd = 0		Db = 0
+Td = 15		ID = 2027	Tj = 14		Df = 0		Dd = 1		Db = 1
+Td = 15		ID = 2024	Tj = 12		Df = 0		Dd = 3		Db = 3
+Td = 16		ID = 2031	Tj = 15		Df = 0		Dd = 1		Db = 1
+Td = 16		ID = 2032	Tj = 16		Df = 0		Dd = 0		Db = 0
+Td = 16		ID = 2020	Tj = 11		Df = 3		Dd = 2		Db = 5
+Td = 17		ID = 2036	Tj = 17		Df = 0		Dd = 0		Db = 0
+Td = 17		ID = 2034	Tj = 16		Df = 0		Dd = 1		Db = 1
+Td = 17		ID = 2035	Tj = 16		Df = 0		Dd = 1		Db = 1
+Td = 18		ID = 2030	Tj = 15		Df = 0		Dd = 3		Db = 3
+Td = 19		ID = 2039	Tj = 18		Df = 1		Dd = 0		Db = 1
+Td = 19		ID = 2040	Tj = 19		Df = 0		Dd = 0		Db = 0
+Td = 19		ID = 2041	Tj = 19		Df = 0		Dd = 0		Db = 0
+Td = 19		ID = 2033	Tj = 16		Df = 3		Dd = 0		Db = 3
+Td = 20		ID = 2038	Tj = 18		Df = 0		Dd = 2		Db = 2
+Td = 20		ID = 2042	Tj = 20		Df = 0		Dd = 0		Db = 0
+Td = 0		ID = 2011	Tj = 6		Df = 0		Dd = 0		Db = 0
+Td = 0		ID = 2012	Tj = 7		Df = 0		Dd = 0		Db = 0
+Td = 21		ID = 2045	Tj = 21		Df = 0		Dd = 0		Db = 0
+Td = 21		ID = 2044	Tj = 21		Df = 0		Dd = 0		Db = 0
+Td = 21		ID = 2029	Tj = 15		Df = 0		Dd = 6		Db = 6
+Td = 22		ID = 2046	Tj = 22		Df = 0		Dd = 0		Db = 0
+Td = 22		ID = 2049	Tj = 22		Df = 0		Dd = 0		Db = 0
+Td = 23		ID = 2037	Tj = 18		Df = 4		Dd = 1		Db = 5
+Td = 24		ID = 2050	Tj = 23		Df = 0		Dd = 1		Db = 1
+Td = 24		ID = 6		Tj = 6		Df = 0		Dd = 18		Db = 18
+Td = 25		ID = 2051	Tj = 23		Df = 0		Dd = 2		Db = 2
+Td = 25		ID = 2054	Tj = 25		Df = 0		Dd = 0		Db = 0
+Td = 26		ID = 2055	Tj = 26		Df = 0		Dd = 0		Db = 0
+Td = 26		ID = 2058	Tj = 26		Df = 0		Dd = 0		Db = 0
+Td = 27		ID = 2060	Tj = 27		Df = 0		Dd = 0		Db = 0
+Td = 27		ID = 2048	Tj = 22		Df = 5		Dd = 0		Db = 5
+Td = 28		ID = 2056	Tj = 26		Df = 1		Dd = 1		Db = 2
+Td = 28		ID = 2052	Tj = 24		Df = 1		Dd = 3		Db = 4
+Td = 29		ID = 2062	Tj = 28		Df = 0		Dd = 1		Db = 1
+Td = 29		ID = 2053	Tj = 24		Df = 1		Dd = 4		Db = 5
+Td = 29		ID = 2066	Tj = 29		Df = 0		Dd = 0		Db = 0
+Td = 30		ID = 2065	Tj = 29		Df = 1		Dd = 0		Db = 1
+Td = 30		ID = 2043	Tj = 21		Df = 2		Dd = 7		Db = 9
+Td = 31		ID = 2070	Tj = 31		Df = 0		Dd = 0		Db = 0
+Td = 31		ID = 2069	Tj = 30		Df = 0		Dd = 1		Db = 1
+Td = 31		ID = 2074	Tj = 31		Df = 0		Dd = 0		Db = 0
+Td = 32		ID = 2072	Tj = 31		Df = 0		Dd = 1		Db = 1
+Td = 33		ID = 2064	Tj = 29		Df = 1		Dd = 3		Db = 4
+Td = 33		ID = 2063	Tj = 29		Df = 0		Dd = 4		Db = 4
+Td = 33		ID = 2075	Tj = 32		Df = 1		Dd = 0		Db = 1
+Td = 33		ID = 2073	Tj = 31		Df = 0		Dd = 2		Db = 2
+Td = 33		ID = 2047	Tj = 22		Df = 3		Dd = 8		Db = 11
+Td = 33		ID = 2057	Tj = 26		Df = 7		Dd = 0		Db = 7
+Td = 34		ID = 2071	Tj = 31		Df = 0		Dd = 3		Db = 3
+Td = 34		ID = 2080	Tj = 34		Df = 0		Dd = 0		Db = 0
+Td = 35		ID = 2079	Tj = 34		Df = 1		Dd = 0		Db = 1
+Td = 35		ID = 2078	Tj = 34		Df = 0		Dd = 1		Db = 1
+Td = 35		ID = 2076	Tj = 33		Df = 0		Dd = 2		Db = 2
+Td = 35		ID = 2082	Tj = 35		Df = 0		Dd = 0		Db = 0
+Td = 35		ID = 2083	Tj = 35		Df = 0		Dd = 0		Db = 0
+Td = 35		ID = 2059	Tj = 27		Df = 0		Dd = 8		Db = 8
+Td = 36		ID = 2077	Tj = 34		Df = 1		Dd = 1		Db = 2
+Td = 36		ID = 2085	Tj = 36		Df = 0		Dd = 0		Db = 0
+Td = 36		ID = 2084	Tj = 35		Df = 0		Dd = 1		Db = 1
+Td = 36		ID = 2081	Tj = 35		Df = 1		Dd = 0		Db = 1
+Td = 36		ID = 2061	Tj = 28		Df = 8		Dd = 0		Db = 8
+Td = 37		ID = 2087	Tj = 37		Df = 0		Dd = 0		Db = 0
+Td = 37		ID = 2068	Tj = 30		Df = 0		Dd = 7		Db = 7
+Td = 37		ID = 2067	Tj = 30		Df = 7		Dd = 0		Db = 7
+Td = 38		ID = 2086	Tj = 37		Df = 0		Dd = 1		Db = 1
+Td = 39		ID = 2089	Tj = 39		Df = 0		Dd = 0		Db = 0
+Td = 40		ID = 2088	Tj = 38		Df = 0		Dd = 2		Db = 2
+Td = 40		ID = 2090	Tj = 40		Df = 0		Dd = 0		Db = 0
+Td = 40		ID = 2091	Tj = 40		Df = 0		Dd = 0		Db = 0
+
+
+Battle result: Win
+
+ ============ STATISTICS ============ 
+
+ For Earth Army: 
+	 - Total ES: 21
+	 - Total ET: 26
+	 - Total EG: 27
+
+	 - ES destructed %: 4.7619
+	 - ET destructed %: 0
+	 - EG destructed %: 0
+	 - Total destructed %: 1.35135
+
+	 - Average Df: 0
+	 - Average Dd: 0
+	 - Average Db: 0
+
+	 - DF/Db %: 0
+	 - Dd/Db %: 0
+
+ For Alien Army: 
+	 - Total AS: 15
+	 - Total AM: 48
+	 - Total AD: 29
+
+	 - AS destructed %: 100
+	 - AM destructed %: 100
+	 - AD destructed %: 100
+	 - Total destructed %: 100
+
+	 - Average Df: -nan(ind)
+	 - Average Dd: -nan(ind)
+	 - Average Db: -nan(ind)
+
+	 - DF/Db %: -nan(ind)
+	 - Dd/Db %: -nan(ind)
+
